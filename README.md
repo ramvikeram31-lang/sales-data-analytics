@@ -19,6 +19,8 @@ Analyzed retail sales data to identify trends, customer behavior, and revenue in
 - Identified top 5 best-selling products
 - Found peak sales months
 - Recommended focus regions for marketing
+(|)
+<img width="1247" height="657" alt="Screenshot 2026-06-13 233657" src="https://github.com/user-attachments/assets/af115f41-3494-4f29-849e-bf34306c43af" />
 
 ## Conclusion
 This project helped understand customer purchase patterns and gave actionable insights for sales growth.
